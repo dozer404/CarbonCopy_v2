@@ -1,5 +1,5 @@
 # CarbonCopy_v2
-OP : Paranoid Ninja
+OP : Paranoid Ninja  \n
 Author : dozer404
 
 A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux. Refactored to use 'cryptography' library and modern Python practices.
